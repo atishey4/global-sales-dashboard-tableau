@@ -2,11 +2,11 @@
 
 ## Download
 
-📥 [Download the Tableau Workbook (.twbx)](./Global_Sales_Dashboard.twbx)
+📥 [Download the Tableau Workbook (.twbx)](./Global%20Sales%20Performance%20-%20Visuals.twbx)
 
 ## Screenshots
 
-![Global Sales Dashboard](./screenshots/dashboard.png)
+![Global Sales Dashboard](./screenshots/Screenshot%202026-05-31%20134854.png)
 
 ## Overview
 This Tableau project tracks global sales and profitability across regions, countries, product categories, and customer segments to help sales and business leaders make data-driven decisions.
